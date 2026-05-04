@@ -3,3 +3,5 @@ doocs-md/
 moca-wechat-assets/
 *.log
 .DS_Store
+.claude/settings.local.json
+_ai_tool_configs/
