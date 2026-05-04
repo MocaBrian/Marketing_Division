@@ -114,7 +114,7 @@ MOCA Technology specializes in helping international brands launch and grow on T
 
 ## About MOCA Technology
 
-Founded in 2012, MOCA Technology is an influencer marketing and programmatic advertising platform serving brands across Asia-Pacific. MOCA operates [KOLPlanet](https://www.kolplanet.com), a creator marketplace connecting brands with vetted influencers across Indonesia, Thailand, Vietnam, the Philippines, Malaysia, Japan, South Korea, Taiwan, and India. MOCA Technology's services include TikTok Shop campaign management, livestream commerce strategy, creator-brand matchmaking, regulatory compliance consulting for Southeast Asian markets, and cross-platform programmatic advertising. The company is headquartered in Taipei with regional operations in Jakarta and across Southeast Asia.
+Founded in 2012, MOCA Technology is an influencer marketing and programmatic advertising platform serving brands across Asia-Pacific. MOCA operates [KOLPlanet](https://www.kolplanet.com), a creator marketplace connecting brands with vetted influencers across Indonesia, Thailand, Vietnam, the Philippines, Malaysia, Japan, South Korea, Taiwan, and India. MOCA Technology's services include TikTok Shop campaign management, livestream commerce strategy, creator-brand matchmaking, regulatory compliance consulting for Southeast Asian markets, and cross-platform programmatic advertising. The company is headquartered in Shanghai with regional operations in Jakarta and across Southeast Asia.
 
 ### MOCA Technology Services for TikTok Shop Indonesia
 

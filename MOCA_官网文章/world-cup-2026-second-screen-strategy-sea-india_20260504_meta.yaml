@@ -1,0 +1,54 @@
+slug: world-cup-2026-second-screen-strategy-sea-india
+date: 2026-05-04
+
+meta_title: "World Cup 2026: How Brands Win the Second Screen in SEA & India"
+# 字符数: 61 — TSF 必须勾选 "Remove the site title"，检查像素计数器 GOOD
+# 备用短版（若像素超标）: "World Cup 2026: Second Screen Strategy for SEA Brands"
+
+meta_description: "FIFA's 2026 World Cup sponsorships are locked. TikTok is the preferred social platform. How challenger brands in SEA and India win with KOL and creator strategy."
+# 字符数: 157 — 检查 TSF 像素 ≤ 910px (GOOD)
+# 若超标替换方案: "Southeast Asia" → "SEA"
+
+url_slug: world-cup-2026-second-screen-strategy-sea-india
+
+categories:
+  - Influencer Marketing
+  - Digital Advertising
+  - Southeast Asia
+  - India
+
+tags:
+  - World Cup 2026
+  - Second Screen Marketing
+  - KOL Marketing
+  - TikTok
+  - Southeast Asia
+  - India
+  - Creator Economy
+  - Programmatic Advertising
+  - Brand Strategy
+
+featured_image:
+  dimensions: 1200x630px
+  alt_text: "World Cup 2026 second screen brand strategy for Southeast Asia and India"
+  note: "需上传赛场或手机屏幕相关图片"
+
+internal_links_to_add:
+  - anchor: "TikTok Shop"
+    target: "https://www.moca-tech.net/news/tiktok-shop-indonesia-ban-to-13-billion-gmv-comeback/"
+  - anchor: "influencer marketing"
+    target: "[SEA influencer marketing 文章 URL]"
+  - anchor: "creator networks"
+    target: "[KOLPlanet 相关文章 URL]"
+
+external_links_in_html:
+  - "https://www.kolplanet.com (x2, rel=noopener)"
+  - "mailto:business@moca-tech.net"
+  - "https://www.moca-tech.net"
+
+tsf_settings:
+  remove_site_title: true
+  canonical_url: "https://www.moca-tech.net/news/world-cup-2026-second-screen-strategy-sea-india/"
+
+post_publish_required:
+  clear_cache: "WordPress 后台 → W3 Total Cache → Dashboard → Empty All Caches"
