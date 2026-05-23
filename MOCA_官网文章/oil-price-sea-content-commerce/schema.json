@@ -1,0 +1,224 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "@id": "https://www.moca-tech.net/news/oil-price-crisis-southeast-asia-content-commerce-growth.html#article",
+    "headline": "Oil Price Crisis: Why Southeast Asia Content Commerce Is Surging",
+    "description": "Brent crude hits $102. Southeast Asia e-commerce GMV reaches $185B with 15% YoY growth. How brands use KOL marketing and TikTok Shop to offset rising logistics costs and capture growth in the region.",
+    "image": "https://www.moca-tech.net/news/images/oil-price-sea-content-commerce-og.jpg",
+    "datePublished": "2026-03-27",
+    "dateModified": "2026-03-27",
+    "author": {
+      "@type": "Organization",
+      "name": "MOCA Technology",
+      "url": "https://www.moca-tech.net"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "MOCA Technology",
+      "url": "https://www.moca-tech.net",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.moca-tech.net/images/moca-logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.moca-tech.net/news/oil-price-crisis-southeast-asia-content-commerce-growth.html"
+    },
+    "articleSection": "E-commerce",
+    "wordCount": 1200,
+    "inLanguage": "en",
+    "keywords": [
+      "Southeast Asia content commerce",
+      "oil price impact e-commerce",
+      "KOL marketing Southeast Asia",
+      "TikTok Shop SEA",
+      "influencer marketing Southeast Asia",
+      "content commerce growth",
+      "brand localization SEA",
+      "digital economy Southeast Asia"
+    ],
+    "about": [
+      {
+        "@type": "Thing",
+        "name": "Content Commerce",
+        "description": "A retail model that combines content creation with e-commerce transactions, driven by influencers and social media platforms"
+      },
+      {
+        "@type": "Thing",
+        "name": "Southeast Asia E-commerce",
+        "description": "The digital commerce market across ASEAN nations, valued at $185 billion GMV in 2025"
+      },
+      {
+        "@type": "Thing",
+        "name": "Oil Price Crisis 2026",
+        "description": "Brent crude exceeding $102 per barrel due to geopolitical tensions and Strait of Hormuz disruptions"
+      }
+    ],
+    "mentions": [
+      {
+        "@type": "Organization",
+        "name": "TikTok Shop",
+        "url": "https://shop.tiktok.com"
+      },
+      {
+        "@type": "Organization",
+        "name": "MOCA Technology",
+        "url": "https://www.moca-tech.net"
+      },
+      {
+        "@type": "Organization",
+        "name": "KOLPlanet",
+        "url": "https://www.kolplanet.com"
+      },
+      {
+        "@type": "ResearchOrganization",
+        "name": "Momentum Works"
+      },
+      {
+        "@type": "ResearchOrganization",
+        "name": "Google-Temasek-Bain"
+      },
+      {
+        "@type": "Thing",
+        "name": "Strait of Hormuz"
+      }
+    ],
+    "citation": [
+      {
+        "@type": "CreativeWork",
+        "name": "e-Conomy SEA 2025 Report",
+        "author": "Google, Temasek, Bain & Company"
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "Southeast Asia E-commerce 2026 Report",
+        "author": "Momentum Works"
+      },
+      {
+        "@type": "CreativeWork",
+        "name": "KOL Marketing Expenditure Southeast Asia 2025",
+        "author": "Statista"
+      }
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "@id": "https://www.moca-tech.net/news/oil-price-crisis-southeast-asia-content-commerce-growth.html#faq",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How large is Southeast Asia's e-commerce market in 2025?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Southeast Asia's digital economy GMV surpassed $300 billion in 2025, with e-commerce contributing $185 billion at a 15% year-over-year growth rate, according to the Google-Temasek-Bain e-Conomy SEA report. The region's e-commerce penetration stands at just 13%, compared to 47% in China, indicating substantial room for growth."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How is the oil price crisis affecting brands selling in Southeast Asia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "With Brent crude exceeding $102 per barrel and Strait of Hormuz shipping volumes dropping 95% from pre-conflict levels, brands face rising logistics and raw material costs that compress profit margins. Marketing budgets remain flat while ROI expectations for every campaign dollar increase. Brands are shifting from broad awareness spending toward performance-driven KOL campaigns that deliver measurable conversion."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much are brands spending on KOL marketing in Southeast Asia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "KOL marketing expenditure in Southeast Asia exceeded $2.1 billion in 2025, according to Statista. Brand demand for paid influencer promotions grew 72% year-over-year, as reported by Vero ASEAN. The growth is driven by measurable ROI improvements from localized content that resonates with regional audiences."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is content commerce and why does it matter for Southeast Asia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Content commerce integrates product discovery, entertainment, and purchasing into a single experience, primarily through short-form video and livestreaming on platforms like TikTok Shop. In Southeast Asia, TikTok Shop reached $45.6 billion GMV in 2025, doubling year-over-year, with Indonesia alone contributing $13.1 billion. Content commerce reduces dependence on price-based acquisition and builds brand equity through creator-driven storytelling."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is localization important for brands entering Southeast Asia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Southeast Asia spans 11 countries with distinct languages, cultural norms, and consumer behaviors. Localization goes beyond translation to include cultural references, local humor, shopping habits, and platform preferences. MOCA Technology, with over 12 years of local operations across Indonesia, Thailand, Vietnam, Philippines, and Malaysia, emphasizes that authentic local creator content builds brand trust that AI-generated or imported content cannot replicate."
+        }
+      }
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.moca-tech.net/#organization",
+    "name": "MOCA Technology",
+    "alternateName": "MOCA",
+    "url": "https://www.moca-tech.net",
+    "logo": "https://www.moca-tech.net/images/moca-logo.png",
+    "foundingDate": "2012",
+    "email": "business@moca-tech.net",
+    "description": "MOCA Technology is a digital marketing company specializing in influencer marketing, programmatic advertising, and social commerce across Southeast Asia, East Asia, and South Asia.",
+    "areaServed": [
+      {"@type": "Country", "name": "Indonesia"},
+      {"@type": "Country", "name": "Thailand"},
+      {"@type": "Country", "name": "Vietnam"},
+      {"@type": "Country", "name": "Philippines"},
+      {"@type": "Country", "name": "Malaysia"},
+      {"@type": "Country", "name": "Japan"},
+      {"@type": "Country", "name": "South Korea"},
+      {"@type": "Country", "name": "Taiwan"},
+      {"@type": "Country", "name": "India"}
+    ],
+    "knowsAbout": [
+      "Influencer Marketing",
+      "Programmatic Advertising",
+      "Social Commerce",
+      "Creator Economy",
+      "Southeast Asia Digital Marketing",
+      "KOL Marketing",
+      "Content Commerce",
+      "TikTok Shop Marketing",
+      "Cross-border E-commerce"
+    ],
+    "sameAs": [
+      "https://www.kolplanet.com",
+      "https://www.linkedin.com/company/maboroshi-castle"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://www.moca-tech.net/",
+          "name": "Moca Technology, OEM Consolidator & Ad Innovator"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "https://www.moca-tech.net/news/category/ecommerce",
+          "name": "E-commerce"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "https://www.moca-tech.net/news/oil-price-crisis-southeast-asia-content-commerce-growth.html",
+          "name": "Oil Price Crisis: Southeast Asia Content Commerce"
+        }
+      }
+    ]
+  }
+]

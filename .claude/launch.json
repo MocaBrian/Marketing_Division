@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "doocs-md Web (Vite)",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--filter", "@md/web", "dev"],
+      "port": 5173
+    },
+    {
+      "name": "doocs-md Web (Wrangler / CF Workers)",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--filter", "@md/web", "run", "wrangler:dev"],
+      "port": 5173
+    },
+    {
+      "name": "doocs-md MCP Server",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["--filter", "@md/mcp-server", "dev"],
+      "port": 3000
+    }
+  ]
+}

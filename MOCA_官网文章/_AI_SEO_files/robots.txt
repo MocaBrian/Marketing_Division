@@ -1,0 +1,39 @@
+# robots.txt for moca-tech.net
+# Optimized for AI search engine discovery (GEO/AEO/AI SEO)
+
+# Default: allow all
+User-agent: *
+Allow: /
+
+# AI search crawlers — explicit allow (citation eligibility)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Block training-only crawlers (preserve content rights)
+User-agent: CCBot
+Disallow: /
+
+# Sitemap
+Sitemap: https://www.moca-tech.net/sitemap.xml
+Sitemap: https://www.moca-tech.net/sitemap_index.xml
