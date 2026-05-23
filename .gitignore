@@ -4,4 +4,5 @@ moca-wechat-assets/
 *.log
 .DS_Store
 .claude/settings.local.json
+.claude/worktrees/
 _ai_tool_configs/
